@@ -1,0 +1,2 @@
+This Code is written in C++ to establish a  two way connection between the soruce and client.
+Random Loss Model is implemented in one path to study the effect of multiple flow. PAtch is available too support the connection between the 2 nodes
